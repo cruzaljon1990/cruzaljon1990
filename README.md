@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <br>
-    <h1>the Mindblendr</h1>
+    <h1>Aljon Cruz</h1>
     <img src="mblogo.png" width="100"/>
     <br><br><br>
     <div id="badges" align="center">
@@ -20,6 +20,6 @@
 
 ## Hello, world!
 
-Hi I'm Aljon Cruz (*mindblendr*). I'm a backend engineer and a tech enthusiast.
+Hi I'm Aljon Cruz. I'm a backend engineer and a tech enthusiast.
 
 This profile is still **under construction**. I'll be pushing some projects that I'm working on.
